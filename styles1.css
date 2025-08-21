@@ -1,0 +1,15 @@
+body {
+    font-size: 24px;
+}
+span.red {
+    color: red;
+}
+span.green {
+    color: green;
+}
+.bold {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}
